@@ -1,0 +1,52 @@
+{
+    "filial": [
+        {
+            "id": 1,
+            "Rio de Janeiro": "Rio Cine",
+            "São Paulo": "Bolacha Movies",
+            "Rio Grande do Sul": "Bah, filmes",
+            "Pato Branco": "Cinema de Pato Braaanco"
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "A viagem de Shihiro": "Animação",
+            "Austin Powers": "Comédia",
+            "Debi e Loide": "Comédia",
+            "Malcolm X": "Político",
+            "Moana": "Animação",
+            "o anel de nibelungo": "Fantasia",
+            "A História Sem Fim": "Fantasia",
+            "Star Wars": "Fantasia"
+        }
+    ],
+    "ingresso": [
+        {
+            "ingresso meia": {
+                "id": 1,
+                "segunda-feira": "R$ 19,90",
+                "terça-feira": "R$ 19,90",
+                "quarta-feira": "R$ 24,90",
+                "quinta-feira": "R$ 24,90",
+                "sexta-feira": "R$ 29,90",
+                "sábado": "R$ 29,90",
+                "domingo": "R$ 29,90",
+                "feriados": "R$ 29,90",
+                "promoção de aniversário": "R$ 5,90"
+            },
+            "ingresso inteira": {
+                "id": 2,
+                "segunda-feira": "R$ 39,80",
+                "terça-feira": "R$ 39,80",
+                "quarta-feira": "R$ 49,80",
+                "quinta-feira": "R$ 49,80",
+                "sexta-feira": "R$ 59,80",
+                "sábado": "R$ 59,80",
+                "domingo": "R$ 59,80",
+                "feriados": "R$ 59,80",
+                "promoção de aniversário": "R$ 9,80"
+            }
+        }
+    ]
+}
